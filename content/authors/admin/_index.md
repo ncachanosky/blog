@@ -70,12 +70,20 @@ email: "ncachanosky@outlook.com"
 highlight_name: false
 ---
 
+---
+
 I'm **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and **Fellow** of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center).
 
-I use this blog to share work in progress and comments related to economics. I also blog in Spanish about my home country, Argentina, at [Punto de Vista Económico](https://puntodevistaeconomico.com/). The views in this blog are mine alone and do not represent the position of my institutional affiliations.
+I use this blog to share work in progress and comments related to economics. You can also find me at [Punto de Vista Económico](https://puntodevistaeconomico.com/), where I blog in Spanish about my home country, Argentina.
+
+> The views in this blog are mine alone and do not represent the position of my institutional affiliations.
 
 For more information on my work, visit my [website](https://www.ncachanosky.com/).
 
 Thank you for stopping by!
 
 ---
+
+## The Invisible Hand
+
+The name of the blog is inspired by Adam Smith's famous phrase "**the invisible hand**", which refers to the unintended consequences of the market process. The expression refers to the counterintuitive outcome that market order is the result of human action, not but not human design.
