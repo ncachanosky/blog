@@ -81,9 +81,3 @@ I use this blog to share work in progress and comments related to economics. You
 For more information on my work, visit my [website](https://www.ncachanosky.com/).
 
 Thank you for stopping by!
-
----
-
-## The Invisible Hand
-
-The name of the blog is inspired by Adam Smith's famous phrase "**the invisible hand**", which refers to the unintended consequences of the market process. The expression refers to the counterintuitive outcome that market order is the result of human action, not but not human design.
