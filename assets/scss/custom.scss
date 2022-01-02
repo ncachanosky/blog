@@ -4,13 +4,13 @@
 
 a:hover {
     text-decoration: underline;
-    color: #d11242
+    color: #CCAC00
 }
 
-.fancy-button-blue {
-    border: 1px solid #00447c;
+.fancy-button {
+    border: 1px solid #849946;
     border-radius: 0.2rem;
-    color:#00447c;
+    color:#849946;
     padding: 5px .4rem;
     text-align: center;
     text-decoration: none;
@@ -19,9 +19,10 @@ a:hover {
     line-height: 0.9;
 }
 
-.fancy-button-blue:hover {
+.fancy-button:hover {
     color: white;
-    background-color:#00447c;
+    border: 1px solid #CCAC00;
+    background-color: #CCAC00;
 }
 
 .alert-dark {

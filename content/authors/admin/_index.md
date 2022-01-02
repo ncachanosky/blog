@@ -11,7 +11,7 @@ role: Associate Professor of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Metropolitan State University of Denver
-  url: https://www.stanford.edu/
+  url: https://www.msudenver.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: N. Cachanosky | MSU Denver
@@ -23,17 +23,17 @@ bio: N. Cachanosky | MSU Denver
 #- Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Economics
-    institution: Suffolk University
-    year: 2013
-  - course: MA in Economics and Political Sc.
-    institution: ESEADE
-    year: 2007
-  - course: Lic. in Economics
-    institution: Pontificia Universidad Católica Argentina
-    year: 2004
+#education:
+#  courses:
+#  - course: PhD in Economics
+#    institution: Suffolk University
+#    year: 2013
+#  - course: MA in Economics and Political Sc.
+#    institution: ESEADE
+#    year: 2007
+#  - course: Lic. in Economics
+#    institution: Pontificia Universidad Católica Argentina
+#    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:ncachano@msudenver.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/n_cachanosky
@@ -70,10 +70,12 @@ email: "ncachanosky@outlook.com"
 highlight_name: false
 ---
 
-I'm an **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and **Fellow** of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center). I also serve as **co-editor** of [LIBERTAS: Segunda Época](http://www.journallibertas.com/), in the **Board of Directors** of The [Mont Pelerin Society](https://www.montpelerin.org/), and as **President** of the [Association of Private Enterprise Education](https://www.apee.org/) (APEE).
+I'm **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and **Fellow** of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center).
 
-In this website you can find information about my research and projects. I also blog at [Punto de Vista Económico](http://puntodevistaeconomico.wordpress.com/) with [Adrián O. Ravier](http://adrianravier.com/), [Martín Krause](http://works.bepress.com/martin_krause/), and [Gabriel J. Zanotti](http://gabrielzanotti.com/).
+I use this blog to share work in progress and comments related to economics. I also blog in Spanish about my home country, Argentina, at [Punto de Vista Económico](https://puntodevistaeconomico.com/). The views in this blog are mine alone and do not represent the position of my institutional affiliations.
+
+For more information on my work, visit my [website](https://www.ncachanosky.com/).
+
+Thank you for stopping by!
 
 ---
-
-{{<icon name="file-download" pack="fas">}} {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}

@@ -13,7 +13,7 @@ i_am_a_sponsor: 'true'
 
 # SEO
 
-site_type: Person
+site_type: Blog
 local_business_type: ''
 org_name: ''
 description: ''
@@ -148,7 +148,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'G-3SXYZWSDJQ'
+  google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
