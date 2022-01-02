@@ -9,10 +9,11 @@ summary: New working paper that studies how the left-leaning populit regime of R
 projects: []
 
 # Date published
-date: "2021-01-03T00:00:00Z"
+publishDate: "2021-01-03"
+#date: "2021-01-03"
 
 # Date updated
-lastmod: "2021-01-03T00:00:00Z"
+lastmod: "2021-01-03"
 
 # Is this an unpublished draft?
 draft: false
