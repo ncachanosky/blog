@@ -41,7 +41,7 @@ categories:
 - Research
 ---
 
-[Absher, Grier, and Grier (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0167268120302237) find that durable left-leaning populist regimes in Latin America results in significant economic costs. However, there is an exception: Ecuador under the presidency of Rafael Correa. [Edwards (2019)](https://www.aeaweb.org/articles?id=10.1257/jep.33.4.76) argues that left-leaning populist regimes monetize their spending, therefore Ecuador offers a special case. [Domingo Cavallo (2021)](https://www.amazon.com/dp/B093DZZ68N/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), for instance, say there is no doubt that dollarization avoided Ecuador becoming the Venezuela of Hugo Chávez and Nicolás Maduro.
+[Absher, Grier, and Grier (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0167268120302237) find that durable left-leaning populist regimes in Latin America results in significant economic costs. However, there is an exception: Ecuador under the presidency of [Rafael Correa](https://en.wikipedia.org/wiki/Rafael_Correa). [Edwards (2019)](https://www.aeaweb.org/articles?id=10.1257/jep.33.4.76) argues that left-leaning populist regimes monetize their spending, therefore Ecuador offers a special case. [Domingo Cavallo (2021)](https://www.amazon.com/dp/B093DZZ68N/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), for instance, say there is no doubt that dollarization avoided Ecuador becoming the Venezuela of Hugo Chávez and Nicolás Maduro.
 
 In this paper, co-authored with [Alex Salter](https://www.awsalter.com/) (Texas Tech University) and Ignacio Savanti (Universidad del CEMA), we study how dollarization constrained Rafael Correa's presidency (2007 and 2017).
 
