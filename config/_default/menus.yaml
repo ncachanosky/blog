@@ -16,4 +16,7 @@ main:
   - name: About
     url: 'about/'
     weight: 30
+  - name: Subscribe
+    url: 'https://ncachanosky.us20.list-manage.com/subscribe/post?u=0e9db4b29e934f6280da794bb&amp;id=f4b6c0baaf'
+    weight: 40
   
