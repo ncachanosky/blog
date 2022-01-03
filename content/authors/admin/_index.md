@@ -75,7 +75,7 @@ highlight_name: false
 
 ---
 
-I'm **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) (MSU Denver) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/) (AIER), and **Fellow** of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center).
+I'm **Associate Professor** of Economics at [Metropolitan State University of Denver](http://www.msudenver.edu/) Department of Economics, **Senior Fellow** at the [American Institute of Economic Research](http://www.aier.org/), and **Fellow** of the [UCEMA Friedman-Hayek Center for the Study of a Free Society](https://ucema.edu.ar/friedman-hayek-center).
 
 I use this blog to share work in progress and comments related to economics. You can also find me at [Punto de Vista Económico](https://puntodevistaeconomico.com/), where I blog in Spanish about my home country, Argentina.
 
