@@ -5,7 +5,7 @@
 
 title: Economic Order Blog # Website name
 baseurl: 'https://economic-order.netlify.app/' # Website URL
-copyright: 'Copyright © Nicolás Cachanosky' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright © Nicolás Cachanosky | [Subscribe to email updates](https://ncachanosky.us20.list-manage.com/subscribe/post?u=0e9db4b29e934f6280da794bb&amp;id=f4b6c0baaf) | [RSS Feed](http://localhost:1313/about/index.xml)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
