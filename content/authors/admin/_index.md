@@ -84,3 +84,8 @@ I use this blog to share work in progress and comments related to economics. You
 For more information on my work, visit my [website](https://www.ncachanosky.com/).
 
 Thank you for stopping by!
+
+---
+
+**Subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](index.xml).  
+**Subscribe** to my monthly newsletter in [Revue](https://www.getrevue.co/profile/n_cachanosky).
