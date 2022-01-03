@@ -45,4 +45,4 @@ In this paper, co-authored with [Alex Salter](https://www.awsalter.com/) (Texas 
 **Abstract**
 > Rafael Correa’s presidency in Ecuador (2007 – 2017) exemplifies left-leaning populist regimes in Latin America. However, there is a key difference: Ecuador is a dollarized economy. This removes the possibility of fiscal dominance over monetary policy as is common in populist regimes. This paper studies how dollarization constraints a populist leader. We discuss the incentives of a budget constraint immune to monetization and the failed attempt to launch a national digital currency. 
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726345" class="fancy-button">Download from SSRN</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988413" class="fancy-button">Download from SSRN</a>
