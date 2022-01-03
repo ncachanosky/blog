@@ -1,9 +1,9 @@
 ---
 title: 'Can dollarization constrain a populist leader? The case of Rafael Correa in Ecuador'
-subtitle: New working paper that studies how dollarization constrained the left-leaning populist regime of Rafael Correa in Ecuador (2007 - 2017)..
+subtitle: New working paper that studies how dollarization constrained the left-leaning populist regime of Rafael Correa in Ecuador (2007 - 2017).
 
 # Summary for listings and search engines
-summary: New working paper that studies how dollarization constrained the left-leaning populist regime of Rafael Correa in Ecuador (2007 - 2017)..
+summary: New working paper that studies how dollarization constrained the left-leaning populist regime of Rafael Correa in Ecuador (2007 - 2017).
 
 # Link this post with a project
 projects: []
