@@ -9,7 +9,7 @@ summary: Just like breaking a thermometer, calling for price controls to put inf
 projects: []
 
 # Date published
-date: "2022-01-02"
+date: "2022-01-05"
 
 # Is this an unpublished draft?
 draft: false
@@ -57,4 +57,8 @@ Consider the following example. At the free market (equilibrium) price of 10 dol
 ![Price ceiling](Price-ceiling.png)
 
 It seems that price controls are worse than breaking a thermometer. Price controls do not just conceal the symptoms of the disease; it makes the problem even worse.
+
+---
+
+Joseph Politano has an interesting [discussion](https://apricitas.substack.com/p/are-rising-corporate-profit-margins) of why corporate profits and monopolies are not causing inflation.
 
