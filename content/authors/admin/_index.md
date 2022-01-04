@@ -88,4 +88,4 @@ Thank you for stopping by!
 ---
 
 **Subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](index.xml)  
-**Subscribe** to [email updates {{< icon name="envelope" pack="fas" >}}](https://ncachanosky.us20.list-manage.com/subscribe/post?u=0e9db4b29e934f6280da794bb&amp;id=f4b6c0baaf)
+**Subscribe** to [monthly email updates {{< icon name="envelope" pack="fas" >}}](https://www.getrevue.co/profile/n_cachanosky)
