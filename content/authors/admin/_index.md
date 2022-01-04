@@ -81,7 +81,7 @@ I use this blog to share work in progress and comments related to economics. You
 
 > The views in this blog are mine alone and do not represent the position of my institutional affiliations.
 
-For more information on my work, visit my [website](https://www.ncachanosky.com/).
+For more information about my work, visit my [website](https://www.ncachanosky.com/).
 
 Thank you for stopping by!
 
