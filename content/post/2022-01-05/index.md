@@ -9,7 +9,7 @@ summary: Just like breaking a thermometer, calling for price controls to put inf
 projects: []
 
 # Date published
-date: "2022-01-05"
+date: "2022-01-05T00:00:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ image:
   caption: ''
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
@@ -35,6 +35,10 @@ tags:
 categories:
 - Economic policy
 ---
+
+---
+
+![featured](featured.jpg)
 
 ## The inflation rate
 

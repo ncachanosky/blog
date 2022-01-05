@@ -9,7 +9,7 @@ summary: The IMF ex-post self-evaluation of its 2018 stand-by agreement with Arg
 projects: []
 
 # Date published
-date: "2022-01-10"
+date: "2022-01-10T00:00:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ image:
   caption: ''
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
@@ -35,6 +35,10 @@ tags:
 categories:
 - Economic policy
 ---
+
+---
+
+![featured](featured.jpg)
 
 The IMF published its ex-post [evaluation](https://www.imf.org/en/Publications/CR/Issues/2021/12/22/Argentina-Ex-Post-Evaluation-of-Exceptional-Access-Under-the-2018-Stand-By-Arrangement-511289) of the 2018 stand-by agreement (SBA) with Argentina last December. This document is particularly interesting because the agreement failed shortly after its implementation and represents the largest SBA in IMF’s history. The program was supposed to go through twelve revisions ending in 2021 but only made it through four revisions.
 
