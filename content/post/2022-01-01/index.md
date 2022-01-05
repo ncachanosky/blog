@@ -10,7 +10,6 @@ projects: []
 
 # Date published
 date: "2022-01-01"
-publishDate: "2022-01-01"
 lastmod: "2022-01-01"
 
 # Is this an unpublished draft?
