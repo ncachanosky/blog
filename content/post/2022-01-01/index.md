@@ -12,6 +12,7 @@ projects: []
 publishDate: "2022-01-01"
 date:        "2022-01-01"
 lastmod:     "2022-01-01"
+enableGitInfo: false
 
 # Is this an unpublished draft?
 draft: false
