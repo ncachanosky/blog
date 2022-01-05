@@ -8,9 +8,10 @@ summary: New working paper that studies how dollarization constrained the left-l
 # Link this post with a project
 projects: []
 
-# Date published
-date: "2022-01-01"
-# lastmod: "2022-01-01"
+## Date published
+publishDate: "2022-01-01"
+date:        "2022-01-01"
+lastmod:     "2022-01-01"
 
 # Is this an unpublished draft?
 draft: false
