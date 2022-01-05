@@ -62,3 +62,6 @@ It seems that price controls are worse than breaking a thermometer. Price contro
 
 Joseph Politano has an interesting [discussion](https://apricitas.substack.com/p/are-rising-corporate-profit-margins) of why corporate profits and monopolies are not causing inflation.
 
+---
+
+{{% subscribe-button %}}
