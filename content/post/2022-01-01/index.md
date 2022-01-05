@@ -9,7 +9,7 @@ summary: New working paper that studies how dollarization constrained the left-l
 projects: []
 
 # Date published
-date: "2022-01-01"
+publishDate: "2022-01-01"
 lasmod: "2022-01-01"
 
 # Is this an unpublished draft?
