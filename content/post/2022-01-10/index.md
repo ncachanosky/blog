@@ -1,42 +1,29 @@
 ---
 title: IMF's evaluation of its stand-by agreement with Argentina in 2018
-subtitle: The IMF ex-post self-evaluation of its 2018 stand-by agreement with Argentina comments on economic policy inconsistencies and lessons that the institution should have already learned. 
-
-# Summary for listings and search engines
-summary: The IMF ex-post self-evaluation of its 2018 stand-by agreement with Argentina comments on economic policy inconsistencies and lessons that the institution should have already learned.
-
-# Link this post with a project
+subtitle: The IMF ex-post self-evaluation of its 2018 stand-by agreement with Argentina
+  comments on economic policy inconsistencies and lessons that the institution should
+  have already learned.
+summary: The IMF ex-post self-evaluation of its 2018 stand-by agreement with Argentina
+  comments on economic policy inconsistencies and lessons that the institution should
+  have already learned.
 projects: []
-
-# Date published
-date: "2022-01-10T00:00:00"
-
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
+date: 2022-01-10T07:00:00-06:00
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: ''
-  focal_point: ""
-  placement: 2
+  focal_point: ''
+  placement: "2"
   preview_only: true
-
 authors:
 - admin
-
 tags:
 - Argentina
 - IMF
-
 categories:
 - Economic policy
----
 
 ---
+***
 
 ![featured](featured.jpg)
 
@@ -80,7 +67,7 @@ To illustrate his point, the IMF shows the same [plot](https://www.elhubeconomic
 
 ## Premature inflation targeting?
 
-Another issue of Argentina’s economic policy was its application of an inflation-targeting regime. As the IMF mentions (p. 23), inflation targeting is typically applied **after** inflation is either low or in a clear downward trend. Central banks usually use inflation targeting to secure low inflation rates. However, Argentina seems to have intended to use an inflation targeting regime to make inflation rates go down. Maybe the BCRA was inspired by some particular case that used inflation targeting to decrease inflation rates. If that was the case, the BCRA based its policy on an outlier and non-representative case. 
+Another issue of Argentina’s economic policy was its application of an inflation-targeting regime. As the IMF mentions (p. 23), inflation targeting is typically applied **after** inflation is either low or in a clear downward trend. Central banks usually use inflation targeting to secure low inflation rates. However, Argentina seems to have intended to use an inflation targeting regime to make inflation rates go down. Maybe the BCRA was inspired by some particular case that used inflation targeting to decrease inflation rates. If that was the case, the BCRA based its policy on an outlier and non-representative case.
 
 ## Communication problems
 
@@ -95,11 +82,11 @@ The IMF points to two communication problems. The first one relates to infrequen
 The second communication issue was between the Argentine government and the IMF. After a decade of no relations, the IMF says, the Argentine government had no proper knowledge of the IMF's procedures and internal regulations. This lack of knowledge ultimately produced waste of precious time in a moment of financial distress.
 
 | Political party | Amount (millions of SDRs) | Number of agreements |
-| --------------- | ------------------------: | -------------------: |
-| UCR             |                     7,931 |                    3 |
-| PJ              |                    17,989 |                    7 |
-| Cambiemos       |                    35,379 |                    1 |
+| --- | ---: | ---: |
+| UCR | 7,931 | 3 |
+| PJ | 17,989 | 7 |
+| Cambiemos | 35,379 | 1 |
 
----
+***
 
 {{% subscribe-button %}}
