@@ -1,9 +1,9 @@
 ---
 title: Elizabeth Warren needs to look at the numbers
-subtitle: Senator Warren blames giant grocery stores for high food prices. She should look at the data. In the last year, food prices have fallen behind the inflation rate.. 
+subtitle: Senator Warren blames giant grocery stores for high food prices. She should look at the data. In the last year, food prices have fallen behind the inflation rate.
 
 # Summary for listings and search engines
-summary: Senator Warren blames giant grocery stores for high food prices. She should look at the data. In the last year, food prices have fallen behind the inflation rate..
+summary: Senator Warren blames giant grocery stores for high food prices. She should look at the data. In the last year, food prices have fallen behind the inflation rate.
 
 # Link this post with a project
 projects: []
