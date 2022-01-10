@@ -27,6 +27,10 @@ categories:
 
 ![featured](featured.jpg)
 
+{{% toc %}}
+
+---
+
 The IMF published its ex-post [evaluation](https://www.imf.org/en/Publications/CR/Issues/2021/12/22/Argentina-Ex-Post-Evaluation-of-Exceptional-Access-Under-the-2018-Stand-By-Arrangement-511289) of the 2018 stand-by agreement (SBA) with Argentina last December. This document is particularly interesting because the agreement failed shortly after its implementation and represents the largest SBA in IMF’s history. The program was supposed to go through twelve revisions ending in 2021 but only made it through four revisions.
 
 The outcome of this latest agreement with Argentina should provide important lessons. Even though it is unlikely to expect the IMF to criticize itself strongly, the document suggests that old lessons were never learned
