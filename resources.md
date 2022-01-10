@@ -1,10 +1,10 @@
-# Mailchimp
-https://mailchimp.com/
+# ConvertKit (for email subscription)
+https://convertkit.com
 
 # Pixabay
 https://pixabay.com/
 
-# Revuew
+# Revue
 Creat newsletters
 https://www.getrevue.co/app/issues/current
 

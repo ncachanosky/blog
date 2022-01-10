@@ -25,7 +25,7 @@ categories:
 ---
 ***
 
-![featured](SMP.jpg)
+![Banner](SMP.jpg)
 
 
 

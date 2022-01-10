@@ -7,7 +7,7 @@ summary: The IMF ex-post self-evaluation of its 2018 stand-by agreement with Arg
   comments on economic policy inconsistencies and lessons that the institution should
   have already learned.
 projects: []
-date: 2022-01-10T07:00:00-06:00
+date: "2022-01-10T07:00:00-06:00"
 featured: false
 image:
   caption: ''
