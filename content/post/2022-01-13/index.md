@@ -22,7 +22,7 @@ categories:
 
 ![featured](featured.jpg)
 
-[Joseph E. Stiglitz](https://www.project-syndicate.org/commentary/argentina-covid-economic-miracle-by-joseph-e-stiglitz-2022-01) offers a surprising statement about Argentina when he says that "thanks to the current government's policies to strengthen the real economy, [Argentina] has been enjoying a remarkable recovery". For everyone familiar with the Argentine econoimc situation, Stigtliz's words are surprising. It takes special skills to see an economic miracle in a country on the brink of a major economic crisis.
+[Joseph E. Stiglitz](https://www.project-syndicate.org/commentary/argentina-covid-economic-miracle-by-joseph-e-stiglitz-2022-01) offers a surprising statement about Argentina when he says that "thanks to the current government's policies to strengthen the real economy, [Argentina] has been enjoying a remarkable recovery". For everyone familiar with the Argentine economic situation, Stigtliz's words are surprising. It takes special skills to see an economic miracle in a country on the brink of a major economic crisis.
 
 ## A fake miracle
 
@@ -38,14 +38,14 @@ Stiglitz’s miracle further vanishes if we compare Argentina's performance with
 
 ## Short memory
 
-Stiglitz thinks most of Alberto Fernández’s economic problems come from Macri's presidency. He forgets Macri himself received a very delicate scenario himself. Thus is far from clear Macri passed over a worse economy than the one he received. Therefore, the economy Fernández receive from Macri is an **indirect** gift from the previous Kirchner administration.
+Stiglitz thinks most of Alberto Fernández’s economic problems come from Macri's presidency. He forgets Macri himself received a very delicate scenario himself. Thus is far from clear Macri passed over a worse economy than the one he received. Therefore, the economy Fernández received from Macri is an **indirect** gift from the previous Kirchner administration.
 
 The IMF granted Macri's its [largest stand-by agreement](https://economic-order.netlify.app/post/2022-01-10/) in the institution's history. But, Macri issued this debt not only because of his economic policy, but also to face the debt issued by the Kirchner administration. Official debt numbers before Macri’s administration understate the outstanding debt because the Kirchner administration ignored the 2001 default holdouts.[^1] As Stiglitz is well aware, Argentina lost a trial against the holdouts in the New Your circuit. Argentina appealed all the way to the U.S. Supreme Court, who refused to hear the case, leaving Griesa’s fault standing. The debt owed to the holdouts was very real, as Judge Griesa's ruling stated. In 2014, Stiglitz and Martín Guzmán co-authored critical a [piece](https://www.project-syndicate.org/commentary/joseph-e--stiglitz-and-martin-guzman-argue-that-the-country-s-default-will-ultimately-harm-america#:~:text=Argentina%E2%80%99s%20Griesafault%20Aug%207%2C%202014%20Joseph%20E.%20Stiglitz%2C,full%20the%207%25%20who%20refused%20a%20restructuring%20deal.) on Griesa's ruling.[^2] Martín Guzmán is the current Minister of Economics of Argentina, but in 2014 he was a post-doctoral student under Stigtliz's supervision at Columbia University.[^3]
 [^1]: I’m sure Stiglitz is aware of the Kirchner tampering with official inflation numbers between 2007 and 2015.
 [^2]: I explain Griesa's argument [here](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2579438).
 [^3]: Stiglitz's article does not disclaim he is commenting on the performance as Minster of Economics of one of his students.
 
-There are several key factors Stiglitz leaves out of his analysis. For instance, Macri received a deficit of 6.9% of GDP, but he left office with a deficit of 4.7% of GDP. More, contrary to what Stiglitz implies, capital controls did not start with Macri, they started with the Kirchner administration. One of the first decision of Macri's administration was to remove those capital controls, even if they decided to re-instate them towards the end of the presidential term. Also, more argentines are leaving the country today than they were in the 2001 crisis. It looks like Argentina is going through a miracle with negative expectations.
+There are several key factors Stiglitz leaves out of his analysis. For instance, Macri received a deficit of 6.9% of GDP, but he left office with a deficit of 4.7% of GDP. More, contrary to what Stiglitz implies, capital controls did not start with Macri, they started with the Kirchner administration. One of the first decision of Macri's administration was to remove those capital controls, even if they decided to re-instate them towards the end of the presidential term. Also, more Argentines are leaving the country today than they were in the 2001 crisis. It looks like Argentina is going through a miracle with negative expectations.
 
 ## What Stiglitz's piece is really about?
 
