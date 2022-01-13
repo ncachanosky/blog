@@ -3,7 +3,7 @@ title: "Stiglitz's Miraculous Take on the Argentine Economy"
 subtitle: Stiglitz presents Argentina as an economic miracle to help the government in his negotiations with the IMF.
 summary: Stiglitz presents Argentina as an economic miracle to help the government in his negotiations with the IMF.
 projects: []
-date: "2022-01-13T07:00:00-06:00"
+date: "2022-01-13T06:00:00"
 featured: false
 image:
   caption: ''
