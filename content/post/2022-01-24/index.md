@@ -36,7 +36,7 @@ A new edited book by [Daniel J. D'Amico](https://ptp.brown.edu/people/daniel-j-d
 
 **Chapter 1. Austrian Economics and the New Paternalism**  
 Daniel M. Hausman  
-**Chapter 2. Austrian Critiques of Behavioral Economics: Common Misconceptions and Low Hanging Fruit**
+**Chapter 2. Austrian Critiques of Behavioral Economics: Common Misconceptions and Low Hanging Fruit**  
 Jason A. Aimone  
 **Chapter 3. Rules, Perception and the Intelligibility of Laboratory Experiments on Social Interaction in Economics**  
 Erik O. Kimbrough  
