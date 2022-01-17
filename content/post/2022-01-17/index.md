@@ -3,7 +3,7 @@ title: "The Gold Standard: Retropsect and Prospect"
 subtitle: Fifty years after the Nixon shock, it is difficult for many to imagine a dollar connected to gold. Most Americans have never used a gold-backed dollar. They do not understand how the gold standard worked. They have not considered the merits of returning to the gold standard. The gold standard, in their minds, is a relic of a bygone era. The contributions in this volume help to bridge the knowledge gap created by fifty years of fiat money.
 summary: Fifty years after the Nixon shock, it is difficult for many to imagine a dollar connected to gold. Most Americans have never used a gold-backed dollar. They do not understand how the gold standard worked. They have not considered the merits of returning to the gold standard. The gold standard, in their minds, is a relic of a bygone era. The contributions in this volume help to bridge the knowledge gap created by fifty years of fiat money.
 projects: []
-date: "2022-01-17T07:00:00-06:00"
+date: "2022-01-17T07:00:00"
 featured: false
 image:
   caption: ''
