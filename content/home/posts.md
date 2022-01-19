@@ -33,7 +33,7 @@ subtitle = ""
 
   [content.archive]
     # Hide "See all" link.
-    enable = false
+    # enable = false
 
 [design]
   columns = "1"
